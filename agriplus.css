@@ -1,24 +1,23 @@
 *{
     font-family: "poppins","inter",sans-serif;}
 .customer-testimonies {
-    display: flex;
-    padding: auto;
-    justify-content: space-between;
+    display: table;
+    padding: 5px
+    
+   
 
 }
 
 .testimonials-wrapper {
-    display: flex;
     padding-left: 30px;
     padding-right: 30px;
+    display: flex;
 }
 
 .title {
-    padding-bottom: 60px;
-    padding-left: 30px;
+    padding-left: 400px;
     display: flex;
     padding-top: 30px;
-
 }
 
 i {
@@ -35,7 +34,12 @@ i {
 
 .single-testimony {
     border: 2px solid grey;
-    display: inline
+    display: flex;
+    padding: 100px 50px 100px;
+    border: solid gray;
+    margin-left: 40px;
+    padding-top: 60px;
+    
 
 }
 .container{
@@ -238,11 +242,6 @@ i {
 .categ{
     font-size: 26px;
 }
-#customs{
-    display: flex;
-    justify-content: center;
-}
-
 .body{
     background-color: #ffffff;
 }
