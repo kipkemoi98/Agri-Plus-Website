@@ -18,7 +18,9 @@ Requirements.
 
 .Either a working computer, phone, tablet or a laptop
 
-.Access to a Stabe Internet
+.An access to a Stabe Internet
+
+1. Local Repository
 
 
 
