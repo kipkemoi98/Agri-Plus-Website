@@ -9,10 +9,16 @@ Week 2 Independent Project|AgriPlus Website
 ## .Authors Info
 ## .License
 ### Description
+
 This is the landing page for agriPlus platform which gives details on the various services they are providing, portfolio and how they get in touch with them. The company provides fresh prduces to their clients.
+
 Installations
+
 Requirements.
+
 .Either a working computer, phone, tablet or a laptop
+
 .Access to a Stabe Internet
+
 
 
