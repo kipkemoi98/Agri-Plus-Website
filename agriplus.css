@@ -1,0 +1,255 @@
+*{
+    font-family: "poppins","inter",sans-serif;
+}
+.customer-testimonies {
+    display: flex;
+    padding: auto;
+    justify-content: space-between;
+
+}
+
+.testimonials-wrapper {
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.title {
+    padding-bottom: 60px;
+    padding-left: 30px;
+}
+
+i {
+    color: #ED661F;
+}
+
+.message, .name {
+    font-weight: bold;
+    font-size: 16px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.single-testimony {
+    border: 2px solid grey;
+    display: inline
+
+}
+.container{
+    display: flex;
+    background-image: url("assets/images/image 1.png");
+    padding: 70px;
+    background-size: 100% 100%;
+    font-size: 20px;
+}
+
+.most-popular {
+    display: flex;
+    background-color: #ffffff;
+    margin-left: 2px;
+    font-size: 26px;
+
+}
+
+.ima1 {
+    width: 43vh;
+    height: auto;
+    padding-left: 50px;
+}
+
+#addition {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 30px;
+    text-indent: 20px;
+
+}
+
+.exist-ima {
+    height: 60%;
+    width: 70%;
+    padding-top: 30px;
+}
+
+.j {
+    display: flex;
+    box-sizing: border-box;
+    padding: 50px 30px 50px;
+    margin-left: 3px;
+
+}
+
+.p {
+    width: 43vh;
+    height: auto;
+    padding-left: 50px;
+}
+
+.body {
+    padding: 0px;
+    margin: 0px;
+    font-size: 26px;
+}
+
+.Agriplus {
+    border: solid #000000;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: white;
+    margin-block-start: auto;
+}
+
+.touch-keep {
+    background-color: #000000;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    text-align: justify;
+}
+
+.explore_more {
+    height: 60px;
+    width: 250px;
+    background-color: orange;
+    color: white;
+    font-size: x-large;
+}
+
+.agri-plus{
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    font-size: 20px;
+}.topbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px;
+    font-display: 20px;
+}
+.addition_box{
+    border: solid 2px white;
+    margin-left: 1500px;
+    margin-top: -150px;
+    padding-top: 150px;
+    flex-direction: row;
+    padding-right: 200px;
+    width: 1100px;
+    background-color: #ffffff;
+    font-weight: 600;
+    box-shadow: 5px 5px grey;
+}
+.navbar{
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    word-spacing: normal;
+    text-align: justify;
+    text-indent: 70px;
+}
+#clossing{
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer{
+    background-color: black;
+}
+.getstarted{
+    height: 60px;
+    width: 150px;
+    font-size: 26px;
+    background-color: orange;
+}
+#readmore{
+    display: flex;
+    flex-direction: row;
+}
+.agri_plus{
+    /*background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    justify-content: space-around;
+    text-indent: 40px;
+    list-style: none;*/
+}
+.agri{
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    justify-content: space-between;
+    padding: 50px;
+    list-style: none;
+    background-color: black;
+    color: white;
+}
+.apps-googl{
+    height: 80px;
+    width: 300px;
+    flex-direction: column
+}
+.sub{
+    background-color: #ED661F;
+    padding-bottom: 14px;
+}
+#mail{
+        background-color: black;
+        color: black;
+        padding: 20px;
+        font-size: 20px;
+        height: 40px;
+        width: 300px;
+        padding-left: 45%;
+}
+.socia{
+    font-size: 20px;
+    background-color: #000000;
+    color: #ffffff;
+    box-sizing: border-box;
+    border: white;
+    justify-content: center;
+}
+.f{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+#pc{
+    justify-content: center;
+    display: flex;
+}
+#product-categories{
+    display: flex;
+    justify-content: center;
+}
+.categ{
+    font-size: 26px;
+}
+#customs{
+    display: flex;
+    justify-content: center;
+}
+
+.body{
+    background-color: #ffffff;
+}
+.socialmedia{
+    text-align: center;
+    font-size: 28px;
+}
+.list li{
+    list-style: none;
+    padding: 20px;
+    font-size: 30px;
+}
