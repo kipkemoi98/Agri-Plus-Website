@@ -37,7 +37,9 @@ Make sure you have a stable internet for forking this repository.
 According to the license, you can fork this project. You need ibkt click on the forking icon and it will be added as one of your repositories.
 
 Technologies
+
 .HTML5
+
 .CSS3
 
 Author Info
