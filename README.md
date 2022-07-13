@@ -21,6 +21,11 @@ Requirements.
 .An access to a Stabe Internet
 
 1. Local Repository
+. Inorder to clone the repository you should have a stable internet 
+. Input the following command in your termoinal to clone this respository
+git clone https://github.com/kipkemoi98/Agri-Plus-Website.git 
+This is for the https and if you are using the ssh use the following link
+git@github.com:kipkemoi98/Agri-Plus-Website.git
 
 
 
